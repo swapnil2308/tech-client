@@ -1,0 +1,47 @@
+"filters"
+{
+	"favorites"
+	{
+		"0"
+		{
+			"name"		"..::Kosova Public Server::.."
+			"address"	"91.150.72.226:27015"
+			"lastplayed"	"1289827573"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+	}
+
+	"history"
+	{
+		"0"
+		{
+			"name"		"..::Kosova Public Server::.."
+			"address"	"91.150.72.226:27015"
+			"lastplayed"	"1293634805"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"1"
+		{
+			"name"		"169.254.112.201:27015"
+			"address"	"169.254.112.201:27015"
+			"lastplayed"	"1293711946"
+			"appID"		"0"
+			"gamedir"		""
+		}
+
+		"2"
+		{
+			"name"		"127.0.0.1:27015"
+			"address"	"127.0.0.1:27015"
+			"lastplayed"	"1417854246"
+			"appID"		"0"
+			"gamedir"		""
+		}
+
+	}
+
+}

@@ -1,0 +1,20 @@
+
+s_refgain 0.4
+s_refdelay 4
+s_occfactor 0.25
+s_verbwet 0.25
+s_distance 60
+
+
+
+// run a user script file if present
+
+echo "                                               Welcome To N'Joy Cyber Cafe!!!!"
+echo                                                    
+echo "                                                    Sm2tp23@gmail.com"
+echo
+echo "                                                  loading new commands..."
+echo ""
+exec new.cfg
+echo ""
+echo "                                                New commands loaded sucessfully..."

@@ -1,0 +1,9 @@
+
+www.google-tech.info
+
+Mir Se Vini Ne Google-Tech
+
+
+Google-Tech Public Server 94.100.50.26:27015
+Google-Tech CM Server     94.100.50.26:27020
+Google-Tech Funny Server  94.100.50.27:27015
